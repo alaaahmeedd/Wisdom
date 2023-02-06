@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 732.19 143.11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 62.89px;
+      }
+
+      .cls-2 {
+        font-family: Poppins-SemiBold, Poppins;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-family: Poppins-Regular, Poppins;
+      }
+
+      .cls-4 {
+        fill: #d19750;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <polygon class="cls-4" points="0 0 21.17 15.7 21.17 57.68 63.52 24.46 93.82 48.92 93.82 75.02 63.52 51.11 0 100.76 0 0"/>
+        <polygon class="cls-4" points="105.32 16.43 126.32 0 126.32 143.11 63.52 93.46 0 143.11 0 117.37 63.16 66.81 105.14 99.67 105.32 16.43"/>
+      </g>
+      <text class="cls-1" transform="translate(161.31 102.87)"><tspan class="cls-2" x="0" y="0">WISDOM </tspan><tspan class="cls-3" x="286.13" y="0">COURSES</tspan></text>
+    </g>
+  </g>
+</svg>
